@@ -12,7 +12,8 @@ public class Big {
 		System.out.println("A is big");		
 	}
 	else 
-	{
+	{		
+		System.out.println("Hello");
 		System.out.println("B is big");
 	}
 	}

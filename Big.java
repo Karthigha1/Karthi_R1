@@ -10,7 +10,8 @@ public class Big {
 	{
 		System.out.println("Hello");
 		System.out.println("Hi");
-		System.out.println("A is big");		
+		System.out.println("A is big");	
+		System.out.println("A is big");	
 	}
 	else 
 	{		

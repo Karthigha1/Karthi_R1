@@ -9,6 +9,7 @@ public class Big {
 	if(a>b)
 	{
 		System.out.println("Hello");
+		System.out.println("Hi");
 		System.out.println("A is big");		
 	}
 	else 
